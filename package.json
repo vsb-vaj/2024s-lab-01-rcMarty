@@ -1,0 +1,15 @@
+{
+  "name": "2024s-lab-01-rcmarty",
+  "version": "1.0.0",
+  "description": "You can run any file in your console using command `node task-array.js`",
+  "main": "task-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  },
+  "type": "module"
+}
